@@ -1,4 +1,4 @@
 # warthuner_anti_aircraft
 warthuner_anti_aircraft
-这几天开始写
-防空脚本
+
+防空脚本，还在完成中
